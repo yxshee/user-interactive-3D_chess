@@ -117,24 +117,8 @@ Follow these simple steps:
 
 ## 💻 **Tech Stack**
 
-### 🌐 **Frontend**
-
-- [React](https://reactjs.org/) – Dynamic UI components.
-- [Three.js](https://threejs.org/) – Realistic 3D graphics.
-- [Redux](https://redux.js.org/) – Efficient state management.
-- [Tailwind CSS](https://tailwindcss.com/) – Fast and responsive styling.
-
-### 🖥️ **Backend**
-
-- [Node.js](https://nodejs.org/) – Server-side logic.
-- [Express.js](https://expressjs.com/) – Robust backend APIs.
-- [Socket.io](https://socket.io/) – Real-time multiplayer connectivity.
-
-### ⚙️ **Build & Quality Tools**
-
-- [Webpack](https://webpack.js.org/) – Module bundling.
-- [Babel](https://babeljs.io/) – JavaScript compiling.
-- [ESLint](https://eslint.org/) – Code quality assurance.
+- /☕ **Language:** [C++](https://isocpp.org/)
+- /🎨 **Graphics:** [OpenGL](https://www.opengl.org/) & [GLUT](https://www.opengl.org/documentation/glut/) for 3D rendering and window management.
 
 ---
 
